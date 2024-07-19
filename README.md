@@ -1,5 +1,10 @@
+[![Generic badge](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Software-C%23-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/License-MIT-red.svg)](https://shields.io/)
+[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3379156.3391374-yellowgreen)](https://doi.org/10.1145/3654777.3676331)
+
 # Hands-on, Hands-off Interaction
-Open sourcing of the Hands-on, Hands-off Interaction presented in DOI:10.1145/3654777.3676331
+Open sourcing of the Hands-on, Hands-off Interaction published at the UIST 2024 conference.
 
 This repository contains the code for adding bimanual gaze-assisted interaction to Meta XR SDK.
 The Unity project code contains an example scene with the interaction combinations already set up.
